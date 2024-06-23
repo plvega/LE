@@ -1,0 +1,10 @@
+C:\Users\Choi\Desktop\VegaLE2\VegaBlogDB\bin\Debug\VegaBlogDB.dacpac
+C:\Users\Choi\Desktop\VegaLE2\VegaBlogDB\bin\Debug\VegaBlogDB.dll
+C:\Users\Choi\Desktop\VegaLE2\VegaBlogDB\bin\Debug\VegaBlogDB.pdb
+C:\Users\Choi\Desktop\VegaLE2\VegaBlogDB\obj\Debug\VegaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Choi\Desktop\VegaLE2\VegaBlogDB\obj\Debug\VegaBlogDB.dll
+C:\Users\Choi\Desktop\VegaLE2\VegaBlogDB\obj\Debug\VegaBlogDB.pdb
+C:\Users\Choi\Desktop\VegaLE2\VegaBlogDB\obj\Debug\Model.xml
+C:\Users\Choi\Desktop\VegaLE2\VegaBlogDB\obj\Debug\refactor.xml
+C:\Users\Choi\Desktop\VegaLE2\VegaBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Choi\Desktop\VegaLE2\VegaBlogDB\obj\Debug\predeploy.sql

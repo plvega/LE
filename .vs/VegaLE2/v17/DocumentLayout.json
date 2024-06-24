@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5BF1CC7-D806-4DB6-9BC0-83A95AF41A91}|BlogDataLibrary\\BlogDataLibrary.csproj|d:\\github\\vega-its152l\\vegale2\\blogdatalibrary\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BF1CC7-D806-4DB6-9BC0-83A95AF41A91}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF89294E-3AD1-4124-8E89-6143E77792F1}|BlogAPI\\BlogAPI.csproj|d:\\github\\vega-its152l\\vegale2\\blogapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF89294E-3AD1-4124-8E89-6143E77792F1}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF89294E-3AD1-4124-8E89-6143E77792F1}|BlogAPI\\BlogAPI.csproj|d:\\github\\vega-its152l\\vegale2\\blogapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF89294E-3AD1-4124-8E89-6143E77792F1}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF89294E-3AD1-4124-8E89-6143E77792F1}|BlogAPI\\BlogAPI.csproj|d:\\github\\vega-its152l\\vegale2\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF89294E-3AD1-4124-8E89-6143E77792F1}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9D41DCD-DEFD-431F-B5E6-F680D426717C}|BlogTestUI\\BlogTestUI.csproj|d:\\github\\vega-its152l\\vegale2\\blogtestui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D41DCD-DEFD-431F-B5E6-F680D426717C}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BF1CC7-D806-4DB6-9BC0-83A95AF41A91}|BlogDataLibrary\\BlogDataLibrary.csproj|d:\\github\\vega-its152l\\vegale2\\blogdatalibrary\\postform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BF1CC7-D806-4DB6-9BC0-83A95AF41A91}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\postform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BF1CC7-D806-4DB6-9BC0-83A95AF41A91}|BlogDataLibrary\\BlogDataLibrary.csproj|d:\\github\\vega-its152l\\vegale2\\blogdatalibrary\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BF1CC7-D806-4DB6-9BC0-83A95AF41A91}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF89294E-3AD1-4124-8E89-6143E77792F1}|BlogAPI\\BlogAPI.csproj|d:\\github\\vega-its152l\\vegale2\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF89294E-3AD1-4124-8E89-6143E77792F1}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D41DCD-DEFD-431F-B5E6-F680D426717C}|BlogTestUI\\BlogTestUI.csproj|d:\\github\\vega-its152l\\vegale2\\blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9D41DCD-DEFD-431F-B5E6-F680D426717C}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BF1CC7-D806-4DB6-9BC0-83A95AF41A91}|BlogDataLibrary\\BlogDataLibrary.csproj|d:\\github\\vega-its152l\\vegale2\\blogdatalibrary\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BF1CC7-D806-4DB6-9BC0-83A95AF41A91}|BlogDataLibrary\\BlogDataLibrary.csproj|solutionrelative:blogdatalibrary\\data\\sqldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99FD85A2-ABB4-4312-AF17-E133F3B6C367}|VegaBlogDB\\VegaBlogDB.sqlproj|D:\\GITHUB\\vega-ITS152L\\VegaLE2\\VegaBlogDB\\Stored Procedures\\spUsers_Authenticate.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
@@ -17,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{99FD85A2-ABB4-4312-AF17-E133F3B6C367}|VegaBlogDB\\VegaBlogDB.sqlproj|D:\\GITHUB\\vega-ITS152L\\VegaLE2\\VegaBlogDB\\Stored Procedures\\spUsers_Register.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{99FD85A2-ABB4-4312-AF17-E133F3B6C367}|VegaBlogDB\\VegaBlogDB.sqlproj|solutionrelative:VegaBlogDB\\Stored Procedures\\spUsers_Register.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9D41DCD-DEFD-431F-B5E6-F680D426717C}|BlogTestUI\\BlogTestUI.csproj|d:\\github\\vega-its152l\\vegale2\\blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A9D41DCD-DEFD-431F-B5E6-F680D426717C}|BlogTestUI\\BlogTestUI.csproj|solutionrelative:blogtestui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9D41DCD-DEFD-431F-B5E6-F680D426717C}|BlogTestUI\\BlogTestUI.csproj|d:\\github\\vega-its152l\\vegale2\\blogtestui\\blogtestui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -37,11 +61,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "SqlData.cs",
               "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogDataLibrary\\Data\\SqlData.cs",
               "RelativeDocumentMoniker": "BlogDataLibrary\\Data\\SqlData.cs",
@@ -50,12 +74,97 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-23T04:01:55.808Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogTestUI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogTestUI\\Program.cs",
+              "ToolTip": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogTestUI\\Program.cs",
+              "RelativeToolTip": "BlogTestUI\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:50:35.599Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostForm.cs",
+              "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogDataLibrary\\PostForm.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\PostForm.cs",
+              "ToolTip": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogDataLibrary\\PostForm.cs",
+              "RelativeToolTip": "BlogDataLibrary\\PostForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:18:31.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogAPI\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\PostController.cs",
+              "ToolTip": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogAPI\\Controllers\\PostController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T09:14:18.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogDataLibrary\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "BlogDataLibrary\\Models\\UserLogin.cs",
+              "ToolTip": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogDataLibrary\\Models\\UserLogin.cs",
+              "RelativeToolTip": "BlogDataLibrary\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T08:36:52.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwBsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:37:20.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
+              "ToolTip": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogAPI\\Program.cs",
+              "RelativeToolTip": "BlogAPI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T17:27:08.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogAPI\\appsettings.json",
+              "ToolTip": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogAPI\\appsettings.json",
+              "RelativeToolTip": "BlogAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T17:27:34.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "spUsers_Register.sql",
               "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\VegaBlogDB\\Stored Procedures\\spUsers_Register.sql",
               "RelativeDocumentMoniker": "VegaBlogDB\\Stored Procedures\\spUsers_Register.sql",
@@ -66,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "spUsers_Authenticate.sql",
               "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\VegaBlogDB\\Stored Procedures\\spUsers_Authenticate.sql",
               "RelativeDocumentMoniker": "VegaBlogDB\\Stored Procedures\\spUsers_Authenticate.sql",
@@ -77,31 +186,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogTestUI\\Program.cs",
-              "RelativeDocumentMoniker": "BlogTestUI\\Program.cs",
-              "ToolTip": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogTestUI\\Program.cs",
-              "RelativeToolTip": "BlogTestUI\\Program.cs",
-              "ViewState": "AQIAAJ4AAAAAAAAAAAAuwC0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T03:50:35.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogTestUI\\appsettings.json",
               "RelativeDocumentMoniker": "BlogTestUI\\appsettings.json",
               "ToolTip": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogTestUI\\appsettings.json",
               "RelativeToolTip": "BlogTestUI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-23T03:47:00.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "BlogTestUI.csproj",
               "DocumentMoniker": "D:\\GITHUB\\vega-ITS152L\\VegaLE2\\BlogTestUI\\BlogTestUI.csproj",
               "RelativeDocumentMoniker": "BlogTestUI\\BlogTestUI.csproj",
@@ -109,11 +206,12 @@
               "RelativeToolTip": "BlogTestUI\\BlogTestUI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-23T03:45:52.973Z"
+              "WhenOpened": "2024-06-23T03:45:52.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Choi\\source\\repos\\VegaLE2\\BlogDataLibrary\\Class1.cs",
               "ToolTip": "C:\\Users\\Choi\\source\\repos\\VegaLE2\\BlogDataLibrary\\Class1.cs",

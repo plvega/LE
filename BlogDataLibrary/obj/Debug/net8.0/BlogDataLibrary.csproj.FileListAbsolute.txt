@@ -22,3 +22,4 @@ D:\GITHUB\vega-ITS152L\VegaLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.
 D:\GITHUB\vega-ITS152L\VegaLE2\BlogDataLibrary\obj\Debug\net8.0\refint\BlogDataLibrary.dll
 D:\GITHUB\vega-ITS152L\VegaLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.pdb
 D:\GITHUB\vega-ITS152L\VegaLE2\BlogDataLibrary\obj\Debug\net8.0\ref\BlogDataLibrary.dll
+D:\GITHUB\vega-ITS152L\VegaLE2\BlogDataLibrary\obj\Debug\net8.0\BlogDataLibrary.sourcelink.json
